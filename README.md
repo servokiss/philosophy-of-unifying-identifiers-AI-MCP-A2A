@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This document is still in it's early development stage.  The concepts are being worked out around it's basic purpose as well as what target systems will be used.
+
 As software ecosystems become more complex—encompassing distributed systems, AI agents, MCP/A2A protocols, and multifaceted codebases—a **Universal Identifier (UID)** system is essential for maintaining clarity, interoperability, and robust documentation. This document outlines the philosophy and standards behind UIDs, their role in unifying code, documentation, and AI tooling, and their foundational importance in the next generation of programming practices.
 
 ---
